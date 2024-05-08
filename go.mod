@@ -1,4 +1,4 @@
-module github.com/marcboeker/go-duckdb
+module github.com/sarailQAQ/go-darkdb
 
 go 1.21
 

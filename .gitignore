@@ -2,4 +2,5 @@
 .DS_Store
 run.sh
 duckdb/
+darkdb/
 .idea
